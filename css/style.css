@@ -11,13 +11,21 @@
     margin-right: auto;
 }
 .idk {
+    width: 900px;
+    margin: 0 auto;
     text-align: center;
-    width: 50%;
-    background-color: rgb(218, 218, 249);
+    background-color: rgb(218, 218, 249)
 }
 .meow {
     background-image: url(../../foto/1111/sfondo 1.jpg);
 }
 .no {
     background-color: rgb(202, 202, 234);
+}
+.meduse {
+    font-size: large;
+    background-color:rgb(218, 218, 249);
+}
+.ll {
+    width: 5o%;
 }
