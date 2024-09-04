@@ -3,7 +3,7 @@
     text-align: center;
 }
 .titolo {
-    background-color: rgb(194, 231, 244);
+    background-color: rgb(114, 136, 144);
 }
 .si {
     display: block;
@@ -17,7 +17,7 @@
     background-color: rgb(218, 218, 249)
 }
 .meow {
-    background-image: url()
+    background-image: url(../../foto/1111/sfondo 1.jpg)
 }
 .no {
     background-color: rgb(202, 202, 234);
@@ -31,4 +31,10 @@
 .dd {
     width: 600px;
     margin: 0% auto;
+}
+.pp {
+    width: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
