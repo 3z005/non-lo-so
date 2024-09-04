@@ -46,3 +46,20 @@
 .sectit {
     background-color: #e68bbe;
 }
+.hk {
+    background-color: white;
+    float: left;
+    width: 400px;
+}
+.luc {
+    color: #fde4f2;
+    text-align: center;
+}
+.huh {
+    background-color: #eea1cd;
+}
+.mm {
+    background-color: #f9cee7;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
