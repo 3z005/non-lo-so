@@ -62,4 +62,12 @@
     background-color: #f9cee7;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+.luna {
+    color: white;
+    text-align: center;
+}
+.did {
+    background-color: #022954;
 }
